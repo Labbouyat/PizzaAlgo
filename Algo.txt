@@ -1,2 +1,5 @@
 order Pizza
 pay for Pizza
+made new order
+checkout
+pay for delivery
